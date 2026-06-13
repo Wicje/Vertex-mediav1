@@ -1,0 +1,6 @@
+{
+  "name": "Vertex Media House",
+  "description": "Pixel perfect landing page for Vertex Media House",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
